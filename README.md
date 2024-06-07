@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Lyon Dong
+- 👋 Hi, I’m Lyon Dong
 
 <!---
 Lyon-Dong/Lyon-Dong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
